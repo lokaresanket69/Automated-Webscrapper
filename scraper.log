@@ -1,0 +1,9 @@
+2025-04-27 12:05:34,894 - INFO - Automated scraper started
+2025-04-27 12:05:34,895 - INFO - Starting scraper run
+2025-04-27 12:05:34,895 - ERROR - Error during scraper run: 'WebScraper' object has no attribute 'main'
+2025-04-27 13:38:45,190 - INFO - Starting scheduled scraper run
+2025-04-27 13:38:45,190 - ERROR - Error during scraper run: 'WebScraper' object has no attribute 'main'
+2025-04-27 13:40:30,642 - INFO - Starting scheduled scraper run
+2025-04-27 13:40:30,642 - ERROR - Error during scraper run: 'WebScraper' object has no attribute 'main'
+2025-04-27 13:41:16,130 - INFO - Starting scheduled scraper run
+2025-04-27 13:41:16,131 - ERROR - Error during scraper run: 'WebScraper' object has no attribute 'main'
